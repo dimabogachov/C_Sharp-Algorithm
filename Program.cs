@@ -10,6 +10,7 @@ namespace C_Sharp_Algorithm
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
